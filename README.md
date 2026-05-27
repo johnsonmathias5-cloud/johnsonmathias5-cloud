@@ -1,4 +1,4 @@
-- 👋 Hi I'm Johnson Mathias
+- 👋 Hey there! I'm Johnson Mathias
 - 🔭 I’m currently working on building an end-to-end Exploratory Data Analysis (EDA) project on housing prices.
 - 🌱 I’m currently learning Advanced SQL queries, data wrangling with Pandas, and the math behind machine learning algorithms.
 - 👯 I’m looking to collaborate on beginner-friendly open-source data science projects or Kaggle competitions.
